@@ -1,5 +1,14 @@
+# Ignore secrets
+.env
+
+# Ignore generated output
+output/
+
+# Ignore Python cache
 __pycache__/
 *.pyc
-.env
+
+# Ignore virtual environments
 .venv/
-output/
+venv/
+env/
