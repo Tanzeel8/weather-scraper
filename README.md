@@ -42,8 +42,10 @@ A sample is included in [`sample_output.csv`](sample_output.csv).
 | Islamabad | 17.48 | 16.85 | 60 | Clear Sky | 2026-10-26 06:47 |
 | Lahore | 18.18 | 17.78 | 66 | Clear Sky | 2026-10-26 06:47 |
 | Karachi | 22.51 | 21.81 | 38 | Clear Sky | 2026-10-26 06:47 |
-| Multan | 20.07 | 19.65 | 58 | Clear Sky | 2026-10-26 06:48 |
+| Multan | 20.07 | 19.65 | 58 | Clear Sky | 2026-10-26 06:47 |
 | Peshawar | 16.07 | 15.4 | 64 | Clear Sky | 2026-10-26 06:48 |
+
+![Sample output](screenshot.png)
 
 ## License
 MIT
