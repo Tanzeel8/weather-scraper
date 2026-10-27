@@ -45,6 +45,8 @@ A sample is included in [`sample_output.csv`](sample_output.csv).
 | Multan | 20.07 | 19.65 | 58 | Clear Sky | 2026-10-26 06:47 |
 | Peshawar | 16.07 | 15.4 | 64 | Clear Sky | 2026-10-26 06:48 |
 
+## Screenshot
+
 ![Sample output](screenshot.png)
 
 ## License
